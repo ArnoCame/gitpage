@@ -1,6 +1,6 @@
 # gitpage
 
-## Project setup Woohoo
+## Project setup Woohoom
 ```
 npm install
 ```
